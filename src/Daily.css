@@ -1,0 +1,23 @@
+.Daily .bignumber {
+  font-size: 110px;
+  color: #cc6b49;
+  font-family: "Bebas Neue";
+}
+.Daily .iconbig {
+  font-size: 100px;
+  color: #d2a24c;
+  margin-top: 22px;
+}
+.Daily h5 {
+  font-family: "Bebas Neue";
+  letter-spacing: 2px;
+  font-size: 23px;
+  margin-top: 18px;
+}
+.Daily .info {
+  color: #6f5643;
+}
+.Daily {
+  padding-left: 150px;
+  padding-right: 150px;
+}

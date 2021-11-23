@@ -1,0 +1,29 @@
+.SearchBar h1 {
+  margin-bottom: 0;
+  font-size: 50px;
+  color: #6f5643;
+  font-family: "Bebas Neue";
+  letter-spacing: 2px;
+}
+.SearchBar h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #6f5643;
+}
+.cityicon {
+  color: #cc6b49;
+}
+.SearchButton {
+  background: #ece6c2;
+  color: #d2a24c;
+  margin-left: 15px;
+}
+.SearchBar {
+  padding-top: 200px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.enterCity {
+  background: #ece6c2;
+  border: solid, 1px, #cc6b49;
+}
